@@ -10,7 +10,7 @@ My name is Adriana Marcos
 - 🤔 I’m looking for help with Javascript...
 - 💬 Ask me about Design...
 
-###:hammer_and_wrench: Languages and Tools:
+:hammer_and_wrench: Languages and Tools:
 <div>
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/sass/sass-original.svg"
     height="40" alt="Sass"
@@ -36,10 +36,10 @@ My name is Adriana Marcos
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/vscode/vscode-original.svg"
     height="40" alt="VSCode"
     />
-    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg"
+    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/yarn/yarn-original.svg"
     height="40" alt="Yarn"
     />  
-    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
     height="40" alt="Tailwindcss"
     />  
 </div>
