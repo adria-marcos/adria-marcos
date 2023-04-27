@@ -18,7 +18,7 @@ My name is Adriana Marcos
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/css3/css3-original.svg"
     height="40" alt="CSS3"
     />
-    <img src="https://github.com/Thomas-Boi/devicon/tree/master/icons/html5"
+    <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/html5/html5-original.svg"
     height="40" alt="HTML5"
     />
     <img src="https://github.com/Thomas-Boi/devicon/blob/master/icons/git/git-plain-wordmark.svg"
