@@ -1,5 +1,14 @@
+<img src="./Assets/BallonIllustrationai.png" alt="Alt text" title="Optional title">
+
 ### Hi there 👋
 
+My name is Adriana Marcos
+
+- 🔭 I’m currently working on UX/UI Design
+- 🌱 I’m currently learning 3D Modeling...
+- 👯 I’m looking to collaborate on UX/UI Design Projects...
+- 🤔 I’m looking for help with Javascript...
+- 💬 Ask me about Design...
 <!--
 **adria-marcos/adria-marcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
